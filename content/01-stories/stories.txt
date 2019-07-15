@@ -1,0 +1,3 @@
+title: Stories
+----
+text: My collection of thoughts expressed through short fiction.

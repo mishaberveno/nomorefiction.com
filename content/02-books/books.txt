@@ -1,0 +1,3 @@
+title: Books
+----
+text: My collection of thoughts.

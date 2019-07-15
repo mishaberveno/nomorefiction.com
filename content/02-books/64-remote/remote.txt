@@ -1,0 +1,5 @@
+title: Remote: Office Not Required
+----
+text: With a distributed workforce becoming more and more popular, (link: https://www.amazon.ca/Remote-Office-Required-Jason-Fried/dp/0804137501 text: Remote popup: yes) is a handy how not to screw it up guide, giving you a primer on everything from winning trust to staying motivated. ‘There is nothing more arrogant than taking up someone else’s time with a question you don’t need an answer to right now.’ – June 2018
+----
+link: https://www.amazon.ca/Remote-Office-Required-Jason-Fried/dp/0804137501
