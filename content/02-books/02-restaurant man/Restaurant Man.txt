@@ -1,5 +1,0 @@
-title: Restaurant Man
-----
-text: For as long as I can remember, I’ve been interested in the intricacies of running a restaurant. (link: http://www.amazon.ca/gp/product/0670023523/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0670023523&linkCode=as2&tag=stobeetol05-20 text: Memoirs of Joe Bastianich popup: yes)  is by far the best guide on food service management I could find. The book starts with this simple but enlightening restaurant math: 30% food, 30% salaries, 20% expenses including rent, 20% profit; and continues to hold your attention throughout. – June 2015
-----
-link: http://www.amazon.ca/gp/product/0670023523/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0670023523&linkCode=as2&tag=stobeetol05-20

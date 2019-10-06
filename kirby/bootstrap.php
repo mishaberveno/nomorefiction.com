@@ -1,50 +1,32 @@
 <?php
 
-if(!defined('KIRBY'))  define('KIRBY', true);
-if(!defined('DS'))     define('DS', DIRECTORY_SEPARATOR);
+/**
+ * Validate the PHP version to already
+ * stop at older versions
+ */
+if (version_compare(phpversion(), '7.1.0', '>=') === false) {
+    die(include __DIR__ . '/views/php.php');
+}
 
-// load the kirby toolkit
-include(__DIR__ . DS . 'toolkit' . DS . 'bootstrap.php');
+if (is_file($autoloader = dirname(__DIR__) . '/vendor/autoload.php')) {
 
-// start a session
-s::start();
+    /**
+     * Always prefer a site-wide Composer autoloader
+     * if it exists, it means that the user has probably
+     * installed additional packages
+     */
+    include $autoloader;
+} elseif (is_file($autoloader = __DIR__ . '/vendor/autoload.php')) {
 
-// load all core classes
-load(array(
+    /**
+     * Fall back to the local autoloader if that exists
+     */
+    include $autoloader;
+} else {
 
-  // kirby class and subclasses
-  'kirby'                  => __DIR__ . DS . 'kirby.php',
-  'kirby\\roots'           => __DIR__ . DS . 'kirby' . DS . 'roots.php',
-  'kirby\\urls'            => __DIR__ . DS . 'kirby' . DS . 'urls.php',
-  'kirby\\request'         => __DIR__ . DS . 'kirby' . DS . 'request.php',
-  'kirby\\request\\params' => __DIR__ . DS . 'kirby' . DS . 'request' . DS . 'params.php',
-  'kirby\\request\\query'  => __DIR__ . DS . 'kirby' . DS . 'request' . DS . 'query.php',
-  'kirby\\request\\path'   => __DIR__ . DS . 'kirby' . DS . 'request' . DS . 'path.php',
-
-  // all core abstracts
-  'pagesabstract'          => __DIR__ . DS . 'core' . DS . 'pages.php',
-  'childrenabstract'       => __DIR__ . DS . 'core' . DS . 'children.php',
-  'contentabstract'        => __DIR__ . DS . 'core' . DS . 'content.php',
-  'fieldabstract'          => __DIR__ . DS . 'core' . DS . 'field.php',
-  'fileabstract'           => __DIR__ . DS . 'core' . DS . 'file.php',
-  'filesabstract'          => __DIR__ . DS . 'core' . DS . 'files.php',
-  'kirbytextabstract'      => __DIR__ . DS . 'core' . DS . 'kirbytext.php',
-  'kirbytagabstract'       => __DIR__ . DS . 'core' . DS . 'kirbytag.php',
-  'pageabstract'           => __DIR__ . DS . 'core' . DS . 'page.php',
-  'roleabstract'           => __DIR__ . DS . 'core' . DS . 'role.php',
-  'rolesabstract'          => __DIR__ . DS . 'core' . DS . 'roles.php',
-  'siteabstract'           => __DIR__ . DS . 'core' . DS . 'site.php',
-  'usersabstract'          => __DIR__ . DS . 'core' . DS . 'users.php',
-  'userabstract'           => __DIR__ . DS . 'core' . DS . 'user.php',
-
-  // lib
-  'pageextension'          => __DIR__ . DS . 'lib' . DS . 'pageextension.php',
-
-  // vendors
-  'parsedown'              => __DIR__ . DS . 'vendors' . DS . 'parsedown.php',
-  'parsedownextra'         => __DIR__ . DS . 'vendors' . DS . 'parsedownextra.php'
-
-));
-
-// load all helper functions
-include(__DIR__ . DS . 'helpers.php');
+    /**
+     * If neither one exists, don't bother searching;
+     * it's a custom directory setup and the users need to
+     * load the autoloader themselves
+     */
+}

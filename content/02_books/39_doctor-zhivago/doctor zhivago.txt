@@ -1,0 +1,5 @@
+title: Doctor Zhivago
+----
+text: For me (link: https://www.amazon.ca/Doctor-Zhivago-Boris-Pasternak/dp/0307390950/ref=sr_1_2?ie=UTF8&qid=1492966259&sr=8-2&keywords=doctor+zhivago text: Doctor Zhivago target: _blank) is about heroism. Heroic people, heroic lives, heroic love — things that are seemingly so absent nowadays. Like no other, this book guides you through raw, unfiltered, pure, sincere emotions and relationships. You can’t have it all, so what are you willing to sacrifice? – April 2017
+----
+link: https://www.amazon.ca/Doctor-Zhivago-Boris-Pasternak/dp/0307390950/ref=sr_1_2?ie=UTF8&qid=1492966259&sr=8-2&keywords=doctor+zhivago

@@ -1,5 +1,0 @@
-title: Autobiography of Benjamin Franklin
-----
-text: The (link: https://www.amazon.ca/Autobiography-Benjamin-Franklin/dp/1515026876/ref=sr_1_3?ie=UTF8&qid=1518428759&sr=8-3&keywords=autobiography+of+benjamin+franklin text: early life popup: yes) of Ben Franklin is a worthy guide to any entrepreneur. He started with nothing, hopped on every opportunity, built an audience and won. His ethics and wisdom are something to strive for. “Sloth, like rust, consumes faster than labor wears, while the used key is always bright, as Poor Richard says. But dost thou love life? Then do not squander time, for that is the stuff life is made of.” – February 2018
-----
-link: https://www.amazon.ca/Autobiography-Benjamin-Franklin/dp/1515026876/ref=sr_1_3?ie=UTF8&qid=1518428759&sr=8-3&keywords=autobiography+of+benjamin+franklin

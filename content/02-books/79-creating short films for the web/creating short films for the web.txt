@@ -1,5 +1,0 @@
-title: Creating Short Films For The Web
-----
-text: First written in 2005 by a wonderful Hillman Curtis, (link: https://www.amazon.ca/Hillman-Curtis-Creating-Short-Films/dp/0321278917/ref=sr_1_7?keywords=creating+short+films+for+the+web&qid=1554135313&s=gateway&sr=8-7 text: Creating Short Films For The Web popup: yes) has aged beautifully, going through all the basics of web filmmaking. Besides, Hillman’s enthusiasm is quite contagious. ‘The idea of possibly making a fool of myself in public for something as fleeting as the light on a beautiful woman’s face is exciting to me.’ – April 2019
-----
-link: https://www.amazon.ca/Hillman-Curtis-Creating-Short-Films/dp/0321278917/ref=sr_1_7?keywords=creating+short+films+for+the+web&qid=1554135313&s=gateway&sr=8-7

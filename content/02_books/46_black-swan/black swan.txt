@@ -1,0 +1,5 @@
+title: Black Swan
+----
+text: Perhaps the most important and accessible book on probabilities you can pick up, (link: https://www.amazon.ca/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1502498503&sr=8-1&keywords=black+swan text: Black Swan target: _blank) deserves to be read and re-read. Key takeaway, "we are too brainwashed by notions of causality and we think that it is smarter to say 'because' than to accept randomness." – August 2017
+----
+link: https://www.amazon.ca/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?ie=UTF8&qid=1502498503&sr=8-1&keywords=black+swan

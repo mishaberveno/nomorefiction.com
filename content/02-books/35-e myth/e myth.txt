@@ -1,5 +1,0 @@
-title: E-Myth Revisited
-----
-text: Too many small businesses fail because of a false assumption that if the business is small it must be easy. In his somewhat lofty but instructional book (link: https://www.amazon.ca/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=sr_1_1?ie=UTF8&qid=1486326540&sr=8-1&keywords=e+myth text: E-Myth Revisited popup: yes), Michael Gerber takes you through the process of setting up a business, from your customer’s profile to ‘the true product of a business, which is the business itself.’ – February 2017
-----
-link: https://www.amazon.ca/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=sr_1_1?ie=UTF8&qid=1486326540&sr=8-1&keywords=e+myth

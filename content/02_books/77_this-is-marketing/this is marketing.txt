@@ -1,0 +1,5 @@
+title: This Is Marketing
+----
+text: If you closely follow Seth Godin’s work, then (link: https://www.amazon.ca/This-Marketing-Cant-Until-Learn/dp/0525540830/ref=sr_1_1?keywords=this+is+marketing&qid=1550437877&s=gateway&sr=8-1 text: This Is Marketing target: _blank) will seem more like a good summary of how to think about the role of your work in our culture than a book of new concepts. Every little section here is easily accessible but takes years of practice to understand. ‘A lifeguard doesn’t have to spend much time pitching to the drowning person.’ – February 2019
+----
+link: https://www.amazon.ca/This-Marketing-Cant-Until-Learn/dp/0525540830/ref=sr_1_1?keywords=this+is+marketing&qid=1550437877&s=gateway&sr=8-1

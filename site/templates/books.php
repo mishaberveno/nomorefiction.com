@@ -73,7 +73,7 @@
         <div class="col-8 text">
           <div class="text-float-left">
             <div class="book-dimensions">
-              <h2><?php echo $book->title() ?></h2>
+              <h2><?php echo kirbytext($book->title()) ?></h2>
               <?php echo kirbytext($book->text()) ?>
             </div>
           </div>

@@ -1,5 +1,0 @@
-title: Walden
-----
-text: (link: http://www.amazon.ca/gp/product/0300110081/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0300110081&linkCode=as2&tag=stobeetol05-20 text: Walden popup: yes), among the other things, is a profound dive into a life rarely considered, an account of what it takes to leave the grid for nearly two years and return replenished and enlightened. Thoreau critiques the complexities of our society in the way that is still relevant today, noting that “It is life near the bone where it is sweetest.” – December 2015
-----
-link: http://www.amazon.ca/gp/product/0300110081/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0300110081&linkCode=as2&tag=stobeetol05-20
