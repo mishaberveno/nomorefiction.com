@@ -7,8 +7,8 @@
 			<h1><a class="header_link" href="http://storiesbeentold.com">Stories Been Told</a></h1>
 			<h4>by <a href="http://mberveno.me" target="_blank">Misha Berveno</a></h4>
 			<p class="description">
-				Skim through <a href="../stories">stories</a> told and <a href="../books">books</a> read.<br />
-				And <a href="https://tinyletter.com/storiesbeentold" target="_blank">subscribe</a> to receive a personal note when there is more.
+				Skim through <a href="../stories">stories told</a> and <a href="../books">books read</a>.<br />
+				<a href="https://tinyletter.com/storiesbeentold" target="_blank">Subscribe</a> to receive a personal note when there’s more.
 			</p>
 		</div>
 	</div>

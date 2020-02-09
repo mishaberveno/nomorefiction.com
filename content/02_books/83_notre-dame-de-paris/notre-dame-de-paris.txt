@@ -1,0 +1,5 @@
+title: Notre-Dame de Paris
+----
+text: A tale of beauty and despair, *(link: https://www.amazon.ca/Hunchback-Notre-Dame-English-ebook/dp/B01ENV6A1O/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1571021336&sr=8-34 text: Notre-Dame de Paris target: _blank)* (or *The Hunchback of Notre-Dame*) masterfully intertwines the power of love and architecture. ‘From the beginning of things to the 15th century, architecture was the great book of the human race, man’s principal means of expressing the various stages of his development, physical and mental.’ – October 2019
+----
+link: https://www.amazon.ca/Hunchback-Notre-Dame-English-ebook/dp/B01ENV6A1O/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1571021336&sr=8-34
