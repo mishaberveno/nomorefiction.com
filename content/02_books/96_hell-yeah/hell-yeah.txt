@@ -1,0 +1,5 @@
+title: Hell Yeah or No
+----
+text: What's great about *(link: https://sivers.org/n text: Hell Yeah or No target: _blank)* is how Derek Sivers manages to provide a healthy dose of unconventional thinking in every essay. His writing seems novel and obvious at the same time. ‘Our lives are filled with mediocrity because we said yes to things that we felt half-hearted about.’ – July 2020
+----
+link: https://sivers.org/n
