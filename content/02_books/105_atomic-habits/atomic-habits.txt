@@ -1,0 +1,5 @@
+title: Atomic Habits
+----
+text: Everybody knows that developing good habits is the key to superior long-term performance. Yet the habit-forming process often eludes us. *(link: https://www.amazon.ca/Atomic-Habits-Proven-Build-Break/dp/0735211299 text: Atomic Habits target: _blank)* puts everything you need to know in a clear framework, so you can automate the first step to building your habits today. “Habits are the compound interest of self-improvement.” – February 2021
+----
+link: https://www.amazon.ca/Atomic-Habits-Proven-Build-Break/dp/0735211299
