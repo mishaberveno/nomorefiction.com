@@ -1,5 +1,0 @@
-title: Thinking, Fast and Slow
-----
-text: Definitely not a quick read, *(link: http://www.amazon.ca/gp/product/0385676530/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0385676530&linkCode=as2&tag=stobeetol05-20 text: Thinking, Fast and Slow target: _blank)* still contains a wealth of knowledge, hidden in all the monotonous descriptions of experiments in behavioural economics. For example, you’ll find out why ‘we are more willing to avoid losses than increase gains’ and why ‘a memory of an experience is worth more than the experience itself.’ – August 2015
-----
-link: http://www.amazon.ca/gp/product/0385676530/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0385676530&linkCode=as2&tag=stobeetol05-20

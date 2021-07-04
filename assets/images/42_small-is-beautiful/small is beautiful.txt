@@ -1,5 +1,0 @@
-title: Small Is Beautiful
-----
-text: In the fast-changing world, our mentality is certainly not catching up. *(link: https://www.amazon.ca/Small-Beautiful-Economics-People-Mattered/dp/0099225611/ref=sr_1_3?ie=UTF8&qid=1498432301&sr=8-3&keywords=small+is+beautiful text: Small Is Beautiful target: _blank)* by E.F. Schumacher argues for a humanist approach to economics, with which nearly every person would agree, but which had no effect over the last 40 years. ‘Modern man talks of a battle with nature, forgetting that, if he won the battle, he would find himself on the losing side.’ – June 2017
-----
-link: https://www.amazon.ca/Small-Beautiful-Economics-People-Mattered/dp/0099225611/ref=sr_1_3?ie=UTF8&qid=1498432301&sr=8-3&keywords=small+is+beautiful

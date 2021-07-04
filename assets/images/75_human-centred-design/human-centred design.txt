@@ -1,5 +1,0 @@
-title: Human-Centred Design
-----
-text: Since 2011, IDEO have been teaching the world to solve problems like a designer. *(link: http://www.designkit.org/resources/1 text: Human-Centred Design target: _blank)* then goes through the toolkit required to understand your customers. ‘Make simple, scrappy prototypes to not only save time, but to focus on testing just the critical elements.’ – December 2018
-----
-link: http://www.designkit.org/resources/1

@@ -1,5 +1,0 @@
-title: A Random Walk Down Wall Street
-----
-text: If there’s a truly iconic book in personal finance, it’s probably *(link: https://www.amazon.ca/Random-Walk-Down-Wall-Street/dp/0393246116 text: A Random Walk Down Wall Street target: _blank)*, first published in 1973, which advocated against stock picking and for index investing before ETFs were even around. ‘The consistent losers in the market are those who are unable to resist being swept up in some kind of tulip-bulb craze.’ – January 2021
-----
-link: https://www.amazon.ca/Random-Walk-Down-Wall-Street/dp/0393246116

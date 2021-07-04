@@ -1,5 +1,0 @@
-title: The Black Swan
-----
-text: Perhaps the most important and accessible book you can pick up about how probabilities affect your everyday life, *(link: https://www.amazon.ca/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X text: The Black Swan target: _blank)* deserves to be read and re-read many times. One of the key takeaways: “We are too brainwashed by notions of causality and we think that it is smarter to say ‘because’ than to accept randomness.” – August 2017
-----
-link: https://www.amazon.ca/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X

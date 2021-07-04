@@ -1,5 +1,0 @@
-title: Fooled by Randomness
-----
-text: On my list for years and, oh boy, *(link: http://www.amazon.ca/gp/product/1400067936 text: Fooled by Randomness target: _blank)* didn’t disappoint. Taleb explains how probability applies to everyday life. For example, he writes about a dinner with a friend, “We flipped a coin to see who was going to pay. I lost and paid. He was about to thank me but stopped and said that he paid for his half probabilistically.” – February 2016
-----
-link: http://www.amazon.ca/gp/product/1400067936

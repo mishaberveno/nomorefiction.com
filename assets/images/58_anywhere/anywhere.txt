@@ -1,5 +1,0 @@
-title: Anywhere
-----
-text: A very basic primer and guidebook on digital nomadism, *(link: https://www.amazon.ca/Anywhere-Handbook-Digital-Nomads-Created/dp/0692897496/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1517732226&sr=8-1 text: Anywhere target: _blank)* by And.co covers everything from choosing a place to go to handling your taxes when you get there. Good to use as a checklist before any prolonged departure. ‘Pile and purge; if you don't love it, lose it; let go of nostalgia; respect your stuff; learn the art of the fold.’ – February 2018
-----
-link: https://www.amazon.ca/Anywhere-Handbook-Digital-Nomads-Created/dp/0692897496/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1517732226&sr=8-1

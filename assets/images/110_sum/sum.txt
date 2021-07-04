@@ -1,5 +1,0 @@
-title: Sum
-----
-text: *(link: https://www.amazon.ca/Sum-Tales-Afterlives-David-Eagleman/dp/0143172158 text: Sum target: _blank)* is one of the most unique short books I’ve read in a while. Written by neuroscientist David Eagleman, it describes 40 different ways your afterlife can go, from having all life events grouped by categories to being judged against your potential. “The third death is that moment, sometime in the future, when your name is spoken for the last time.” – June 2021
-----
-link: https://www.amazon.ca/Sum-Tales-Afterlives-David-Eagleman/dp/0143172158

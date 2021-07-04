@@ -1,5 +1,0 @@
-title: The Death of Ivan Ilyich
-----
-text: If you read enough Tolstoy, you’d think that exploring universal feelings of fear, regret, redemption and hatred is his pastime. In *(link: https://www.amazon.ca/Death-Ivan-Ilyich-Leo-Tolstoy/dp/0307951332/ref=sr_1_1?ie=UTF8&qid=1516276754&sr=8-1&keywords=death+of+ivan+ilyich text: The Death of Ivan Ilyich target: _blank)*, he takes on the ever-present question of the meaning of life. Witty, in spots even mind-reading, novella urges everyone to stop and reflect on their path, whether young or old or nearing deathbed. – January 2018
-----
-link: https://www.amazon.ca/Death-Ivan-Ilyich-Leo-Tolstoy/dp/0307951332/ref=sr_1_1?ie=UTF8&qid=1516276754&sr=8-1&keywords=death+of+ivan+ilyich

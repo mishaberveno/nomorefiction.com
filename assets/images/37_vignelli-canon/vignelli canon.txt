@@ -1,5 +1,0 @@
-title: The Vignelli Canon
-----
-text: Massimo Vignelli was unquestionably one of the most respected graphic designers ever. His book *(link: https://www.amazon.ca/Vignelli-Canon-Massimo/dp/3037782250 text: The Vignelli Canon target: _blank)* is a short graphic design manual, reasserting the fact that design is not so much about knowledge as deliberate practice. ‘There are no hierarchies when it comes to quality. Quality is there or is not there, and if is not there we have lost our time.’ – March 2017
-----
-link: https://www.amazon.ca/Vignelli-Canon-Massimo/dp/3037782250

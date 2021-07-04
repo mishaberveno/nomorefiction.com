@@ -1,5 +1,0 @@
-title: Skin in the Game
-----
-text: A logical continuation of *Antifragile*, *(link: https://www.amazon.ca/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1520402665&sr=8-1 text: Skin in the Game target: _blank)* explores the heuristics for leading an honourable life, without transferring your risks onto others. ‘Skin in the game is about bullshit detection; fairness, justice, responsibility and reciprocity; information sharing in transactions; rationality in complex systems and in the real world.’ – March 2018
-----
-link: https://www.amazon.ca/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1520402665&sr=8-1

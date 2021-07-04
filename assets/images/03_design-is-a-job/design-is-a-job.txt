@@ -1,5 +1,0 @@
-title: Design Is a Job
-----
-text: Mike Monteiro, a co-founder of Mule Design, definitely reads like a fresh voice in the tech industry. His on-point wit and unconventional views in *(link: http://abookapart.com/products/design-is-a-job text: Design Is a Job target: _blank)* are worth writing down: ‘I’m not trying to make a connection between art and design. The two couldn’t be more different. One is a corporate business tool for manipulating the poor, and the other is design.’ – June 2015
-----
-link: http://abookapart.com/products/design-is-a-job

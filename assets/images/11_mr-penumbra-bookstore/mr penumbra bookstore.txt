@@ -1,5 +1,0 @@
-title: Mr. Penumbra’s 24-Hour Bookstore
-----
-text: Perhaps the most peculiar thing about *(link: http://www.amazon.ca/gp/product/1443415790/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=1443415790&linkCode=as2&tag=stobeetol05-20 text: Mr. Penumbra’s 24-Hour Bookstore target: _blank)* is how Robin Sloan, the author, is able to intertwine the world of fantasy with seemingly mundane reality. The narrative is strong but lively, detailed but still focused on advancing the storyline, with just a touch of heartwarming old-school geekiness. – November 2015
-----
-link: http://www.amazon.ca/gp/product/1443415790/ref=as_li_tf_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=1443415790&linkCode=as2&tag=stobeetol05-20

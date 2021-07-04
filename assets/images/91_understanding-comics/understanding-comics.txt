@@ -1,5 +1,0 @@
-title: Understanding Comics
-----
-text: Out of all the media, comics seem to be the most misunderstood, often written off as a step before actual art and literature. Scott McCloud set out to change that with *(link: https://www.amazon.ca/Understanding-Comics-Scott-McCloud/dp/0613027825 text: Understanding Comics target: _blank)*, an insightful inquiry into how comics have developed as an art form. ‘In a realistic drawing you see others, in a cartoon you see yourself.’ – February 2020
-----
-link: https://www.amazon.ca/Understanding-Comics-Scott-McCloud/dp/0613027825

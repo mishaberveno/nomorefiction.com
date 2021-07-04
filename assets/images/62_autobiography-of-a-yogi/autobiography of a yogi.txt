@@ -1,5 +1,0 @@
-title: Autobiography of a Yogi
-----
-text: In his *(link: https://www.amazon.ca/Autobiography-Yogi-Paramahansa-Yogananda/dp/0876120796/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=1526234728&sr=8-1 text: Autobiography of a Yogi target: _blank)*, Yogananda undertakes an arduous task of uniting East–West values by outlining the essence of the spiritual path of yoga in India. But proceed with caution: lots of spirituality awaits you here indeed. ‘I don’t expect anything from others, so their actions can’t be in opposition to the wishes of mine.’ – May 2018
-----
-link: https://www.amazon.ca/Autobiography-Yogi-Paramahansa-Yogananda/dp/0876120796/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=1526234728&sr=8-1

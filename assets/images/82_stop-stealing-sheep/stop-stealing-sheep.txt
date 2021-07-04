@@ -1,5 +1,0 @@
-title: Stop Stealing Sheep
-----
-text: Universally revered in the typographic world, Erik Spiekermann is the designer behind Fira Sans and FF Meta who doesn’t shy away from bold, opinionated statements. *(link: https://www.amazon.ca/Stop-Stealing-Sheep-Find-Works/dp/3721210085/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1570404750&sr=8-1 text: Stop Stealing Sheep target: _blank)* is a good primer on choosing typefaces for your work. ‘Most of what we perceive as harmonious and pleasing to the eye follows rules of proportion that are derived from nature.’ – July 2019
-----
-link: https://www.amazon.ca/Stop-Stealing-Sheep-Find-Works/dp/3721210085/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1570404750&sr=8-1

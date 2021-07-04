@@ -1,5 +1,0 @@
-title: The Manual
-----
-text: Born a slave, Epictetus rose to become the freest of all. He viewed philosophy as an inherently practical discipline, hence *(link: https://www.amazon.ca/Manual-Philosophers-Guide-Life/dp/1545461112/ref=sr_1_1?crid=17AM9ULKDRWX1&keywords=the+manual+epictetus&qid=1570403795&sprefix=manual+ep%2Caps%2C218&sr=8-1 text: The Manual target: _blank)* to serve everyone as a guiding star. Essential reading when you feel like you’re getting distracted. ‘If it relates to anything which is not in our power, be ready to say that it does not concern you.’ – July 2019
-----
-link: https://www.amazon.ca/Manual-Philosophers-Guide-Life/dp/1545461112/ref=sr_1_1?crid=17AM9ULKDRWX1&keywords=the+manual+epictetus&qid=1570403795&sprefix=manual+ep%2Caps%2C218&sr=8-1
