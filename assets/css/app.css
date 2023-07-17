@@ -126,9 +126,15 @@
 
 h1 { 
     font-family: test-pitch-sans-semibold;
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: #333;
+    text-decoration: line-through;
  }
+
+ h1:hover { 
+    text-decoration: none;
+ }
+
 
 .h1-spacing {
     padding-top: 25px;
@@ -146,12 +152,12 @@ h1 {
 
 h2 { 
     font-family: test-pitch-sans-semibold;
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: #333;
  }
 
 .text {
-    font: 1rem/1.4 'test-pitch-sans-medium', georgia, serif;
+    font: 0.95rem/1.45 'test-pitch-sans-medium', georgia, serif;
     color: #333;
 }
 
@@ -160,12 +166,12 @@ em {
 }
 
 a { 
-    color: #2ba6cb;
-    text-decoration: none;
+    color: #333;
+    text-decoration: line-through;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .text-dimensions {
