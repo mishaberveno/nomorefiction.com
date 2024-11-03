@@ -156,7 +156,7 @@ h2 {
     color: #333;
  }
 
-.text {
+.text, form {
     font: 0.95rem/1.45 'test-pitch-sans-medium', georgia, serif;
     color: #333;
 }
@@ -183,6 +183,31 @@ a:hover {
 .book-dimensions {
     max-width: 650px;
     padding-bottom: 25px;
+}
+
+input {
+    border-style: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #333;
+}
+
+input[type="submit"] {
+    background: none;
+    border: none;
+    text-decoration: line-through;
+}
+
+input[type="submit"]:hover {
+    text-decoration: none;
+}
+
+input[type="email"] {
+    width: 225px;
+}
+
+input[type="email"]:focus {
+    outline: none;
 }
 
 img {
