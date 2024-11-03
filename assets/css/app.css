@@ -202,10 +202,6 @@ input[type="submit"]:hover {
     text-decoration: none;
 }
 
-input[type="email"] {
-    width: 225px;
-}
-
 input[type="email"]:focus {
     outline: none;
 }
@@ -230,5 +226,9 @@ img {
     .text,
     .title-float-right {
         float: right;
+    }
+
+    input[type="email"] {
+    width: 225px;
     }
 }
