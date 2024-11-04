@@ -22,7 +22,7 @@ title: No More Fiction
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of short fiction stories and book reviews by Misha Berveno.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nomorefiction.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: null
