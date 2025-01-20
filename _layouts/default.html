@@ -3,13 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
 
     <meta name="description" content="{{ page.description | default: site.description | escape }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/app.css" rel="stylesheet" type="text/css">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
 
     <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png?v=zX6QBrgJb8">
     <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png?v=zX6QBrgJb8">
@@ -34,9 +35,9 @@
     <meta name="theme-color" content="#ffffff">
 
     <meta property="og:url" content="https://nomorefiction.com"/>
-    <meta property="og:title" content="No More Fiction by Misha Berveno"/>
-    <meta property="og:description" content="A collection of short stories and book reviews."/>
-    <meta property="og:image" content="/assets/images/logo.png"/>
+    <meta property="og:title" content="{{ page.title }} | {{ site.title }}"/>
+    <meta property="og:description" content="{{ page.description | default: site.description | escape }}"/>
+    <meta property="og:image" content="{{ '/assets/images/logo.png' | absolute_url }}"/>
 </head>
 
 <body>
