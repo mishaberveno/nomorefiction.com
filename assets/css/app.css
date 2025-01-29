@@ -167,7 +167,7 @@ h2 {
  }
 
 .text, form {
-    font: 0.95rem/1.45 Pitch-Sans, georgia, serif;
+    font: 0.95rem/1.45 Pitch-Sans;
     font-weight: normal;
     font-style: normal;
     color: #333;
