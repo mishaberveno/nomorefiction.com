@@ -4,11 +4,8 @@ title: No More Fiction | Stories
 description: A collection of short fiction stories by Misha Berveno.
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  <body>
-      {% for post in site.posts %}
-        {{ post.content }}
-      {% endfor %}
-	</body>
-</html>
+{% for post in site.posts %}
+  <article>
+    {{ post.content }}
+  </article>
+{% endfor %}
