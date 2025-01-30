@@ -234,15 +234,11 @@ img {
 		width: 100%;
 	}
 
-    .title,
-    .text-float-left,
-    .header-float-left {
+    .title, .text-float-left, .header-float-left, form {
         float: left;
     }
 
-    .header,
-    .text,
-    .title-float-right {
+    .header, .text, .title-float-right {
         float: right;
     }
 
