@@ -1,6 +1,3 @@
-/* GRID
-======= */
-
 .grid {
     padding-left: 20px;
     padding-right: 20px;
@@ -20,9 +17,6 @@
 
 @media (min-width: 768px) {
 
-    /* Columns
-    =========================================== */
-
     .grid > [class^="col-"] {
         float: left;
         min-height: 1px;
@@ -38,9 +32,6 @@
     .grid > [class^="col-"]:last-child {
         float: right;
     }
-
-    /* Columns are 65px with 20px gutters
-    =========================================== */
 
     .col-1 {
         width: 6.5%;
@@ -90,9 +81,6 @@
         width: 100%;
     }
 
-    /* Clearfix
-    =========================================== */
-
     .grid:after {
         content: " ";
         display: table;
@@ -105,9 +93,6 @@
         max-width: 1000px;
     }
 }
-
-/* WEBSITE
-======= */
 
 @font-face {
    font-family: 'Pitch-Sans';
@@ -137,12 +122,12 @@ h1 {
     font-style: normal;
     color: #333;
     text-decoration: line-through;
+    transition: text-decoration-color 200ms;
  }
 
  h1:hover { 
-    text-decoration: none;
+    text-decoration-color: transparent;
  }
-
 
 .h1-spacing {
     padding-top: 25px;
@@ -182,10 +167,11 @@ em {
 a { 
     color: #333;
     text-decoration: line-through;
+    transition: text-decoration-color 200ms;
 }
 
 a:hover {
-    text-decoration: none;
+    text-decoration-color: transparent;
 }
 
 .text-dimensions {
@@ -214,10 +200,11 @@ input[type="submit"] {
     background: none;
     border: none;
     text-decoration: line-through;
+    transition: text-decoration-color 200ms;
 }
 
 input[type="submit"]:hover {
-    text-decoration: none;
+    text-decoration-color: transparent;
 }
 
 input[type="email"]:focus {
