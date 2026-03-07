@@ -5,6 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="preload" href="/assets/fonts/pitch-sans-medium.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/pitch-sans-semibold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/pitch-sans-medium-italic.woff2" as="font" type="font/woff2" crossorigin>
+
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description | escape }}">
 
@@ -26,8 +30,25 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@mishaberveno">
 
-    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="preload" href="/assets/css/app.css" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/assets/css/app.css"></noscript>
+
     <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "No More Fiction",
+      "url": "https://nomorefiction.com",
+      "description": "Short stories and book reviews by Misha Berveno",
+      "author": {
+        "@type": "Person",
+        "name": "Misha Berveno",
+        "url": "https://berveno.com"
+      }
+    }
+    </script>
 </head>
 
 <body>
