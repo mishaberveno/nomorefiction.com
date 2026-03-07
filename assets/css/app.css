@@ -1,97 +1,12 @@
-.grid {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-left: auto;
-    margin-right: auto; 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-@media (min-width: 1px) and (max-width: 767px) {
-    .grid > [class^="col-"] {
-        padding-left: 5px;
-        padding-right: 5px;
-    }
-    .hide-mob {
-        display: none;
-    }
-}
-
-@media (min-width: 768px) {
-
-    .grid > [class^="col-"] {
-        float: left;
-        min-height: 1px;
-        padding-left: 10px;
-        padding-right: 10px;
-        margin-left: 2%;
-    }
-
-    .grid > [class^="col-"]:first-child {
-        margin-left: 0;
-    }
-
-    .grid > [class^="col-"]:last-child {
-        float: right;
-    }
-
-    .col-1 {
-        width: 6.5%;
-    }
-
-    .col-2 {
-        width: 15%;
-    }
-
-    .col-3 {
-        width: 23.5%;
-    }
-
-    .col-4 {
-        width: 32%;
-    }
-
-    .col-5 {
-        width: 40.5%;
-    }
-
-    .col-6 {
-        width: 49%;
-    }
-
-    .col-7 {
-        width: 57.5%;
-    }
-
-    .col-8 {
-        width: 66%;
-    }
-
-    .col-9 {
-        width: 74.5%;
-    }
-
-    .col-10 {
-        width: 83%;
-    }
-
-    .col-11 {
-        width: 91.5%;
-    }
-
-    .col-12 {
-        width: 100%;
-    }
-
-    .grid:after {
-        content: " ";
-        display: table;
-        clear: both;
-    }
-}
-
-@media (min-width: 1200px) {
-    .grid {
-        max-width: 1000px;
-    }
+:root {
+    --color-text: #333;
+    --font-text: 'Pitch-Sans', monospace;
 }
 
 @font-face {
@@ -115,121 +30,194 @@
    font-style: italic;
 }
 
-h1 { 
-    font-family: Pitch-Sans;
+article, header {
+    padding-bottom: 50px;
+}
+
+header p {
+    margin-top: 25px;
+}
+
+header form {
+    margin-top: 25px;
+}
+
+h1 {
+    color: var(--color-text);
+    font-family: var(--font-text);
     font-size: 0.9375rem;
     font-weight: 600;
-    font-style: normal;
-    color: #333;
-    text-decoration: line-through;
-    transition: text-decoration-color 200ms;
- }
-
- h1:hover { 
-    text-decoration-color: transparent;
- }
-
-.h1-spacing {
+    line-height: 1.375rem;
     padding-top: 25px;
-    line-height: 1.5rem;
 }
 
-.h1-link {
-    color: #333;
-    text-decoration: none;
+h1 a {
+    display: inline-block;
+    width: 100%;
 }
 
-.h1-link:hover {
-    text-decoration: none;
-}
-
-h2 { 
-    font-family: Pitch-Sans;
+h2 {
+    color: var(--color-text);
+    font-family: var(--font-text);
     font-size: 0.9375rem;
     font-weight: 600;
-    font-style: normal;
-    color: #333;
- }
+    line-height: 1.375rem;
+    margin-bottom: 15px;
+}
 
-.text, form {
-    font: 0.9375rem/1.45 Pitch-Sans;
+p {
+    color: var(--color-text);
+    font-family: var(--font-text);
+    font-size: 0.9375rem;
     font-weight: 500;
-    font-style: normal;
-    color: #333;
+    line-height: 1.375rem;
+    margin-bottom: 1.25rem;  
 }
 
 em {
-    font-family: Pitch-Sans;
-    font-weight: 500;
     font-style: italic;
 }
 
+img {
+    margin-top: 6px;
+}
+
 a { 
-    color: #333;
-    text-decoration: line-through;
-    transition: text-decoration-color 200ms;
+    color: var(--color-text);
+    position: relative;
+    text-decoration: none;
 }
 
-a:hover {
-    text-decoration-color: transparent;
+a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  height: 1px;
+  background: currentColor;
+  transform-origin: left;
+  transition: transform 200ms ease;
 }
 
-.text-dimensions {
-    margin-top: -3px;
-    max-width: 650px;
-    padding-bottom: 100px;
+a:has(img)::after {
+  display: none;
 }
 
-.book-dimensions {
-    max-width: 650px;
-    padding-bottom: 25px;
+a:hover::after {
+  transform: scaleX(0);
+  transform-origin: right;
 }
 
-.header-space {
-    padding-bottom: 25px;
+form {
+    color: var(--color-text);
+    font-family: var(--font-text);
+    font-size: 0.9375rem;
+    font-weight: 500;
+    line-height: 1.375rem;
 }
 
 input {
+    color: var(--color-text);
+    font-family: var(--font-text);
+    font-size: 0.9375rem;
+    font-weight: 500;
     border-style: none;
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: #333;
+    border-bottom-color: var(--color-text);
 }
 
 input[type="submit"] {
     background: none;
     border: none;
-    text-decoration: line-through;
-    transition: text-decoration-color 200ms;
 }
 
-input[type="submit"]:hover {
-    text-decoration-color: transparent;
+input[type="email"] {
+    width: 15rem;
 }
 
 input[type="email"]:focus {
     outline: none;
 }
 
-img {
-    margin-top: 16px;
+.submit-wrap {
+  position: relative;
 }
 
-@media (min-width: 768px) {
-	.main {
-		display: inline-block;
-		width: 100%;
-	}
+.submit-wrap::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  height: 1px;
+  background: currentColor;
+  transform-origin: left;
+  transition: transform 200ms ease;
+}
 
-    .title, .text-float-left, .header-float-left, form {
-        float: left;
+.submit-wrap:hover::after {
+  transform: scaleX(0);
+  transform-origin: right;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 20px;
+    max-width: 1000px;
+    margin-inline: auto;
+}
+
+.col-1 { grid-column: span 1; }
+.col-2 { grid-column: span 2; }
+.col-3 { grid-column: span 3; }
+.col-4 { grid-column: span 4; }
+.col-5 { grid-column: span 5; }
+.col-6 { grid-column: span 6; }
+.col-7 { grid-column: span 7; }
+.col-8 { grid-column: span 8; }
+.col-9 { grid-column: span 9; }
+.col-10 { grid-column: span 10; }
+.col-11 { grid-column: span 11; }
+.col-12 { grid-column: span 12; }
+
+.start-1 { grid-column-start: 1; }
+.start-2 { grid-column-start: 2; }
+.start-3 { grid-column-start: 3; }
+.start-4 { grid-column-start: 4; }
+.start-5 { grid-column-start: 5; }
+.start-6 { grid-column-start: 6; }
+.start-7 { grid-column-start: 7; }
+.start-8 { grid-column-start: 8; }
+.start-9 { grid-column-start: 9; }
+.start-10 { grid-column-start: 10; }
+.start-11 { grid-column-start: 11; }
+.start-12 { grid-column-start: 12; }
+
+.label {
+    grid-column: 1 / 5;
+    text-align: right;
+}
+
+.content {
+    grid-column: 5 / 13;
+    max-width: 600px;
+}
+
+@media (max-width: 768px) {
+    .grid {
+        padding: 0 20px;
     }
 
-    .header, .text, .title-float-right {
-        float: right;
+    .label {
+        grid-column: 1 / -1;
+        text-align: left;
+        margin-top: 50px;
     }
-
-    input[type="email"] {
-    width: 225px;
+    
+    .content {
+        grid-column: 1 / -1;
     }
 }
