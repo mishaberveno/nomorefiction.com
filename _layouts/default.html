@@ -69,5 +69,20 @@
     <main>
         {{ content }}
     </main>
+
+    <footer class="grid">
+            <div class="label">
+                <h2>2015–<span id="year"></span></h2>
+            </div>
+
+            <div class="content">
+                <p><a href="https://berveno.com" rel="me noopener" target="_blank">Unus sed leo.</a></p>
+            </div>
+        </a>
+    </footer>
+
+    <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>

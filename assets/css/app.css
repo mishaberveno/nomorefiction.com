@@ -6,6 +6,7 @@
 
 :root {
     --color-text: #333;
+    --color-footer: #aaa;
     --font-text: 'Pitch-Sans', monospace;
 }
 
@@ -139,6 +140,15 @@ input[type="email"] {
 
 input[type="email"]:focus {
     outline: none;
+}
+
+footer {
+    color: var(--color-footer);
+    transition: color 200ms;
+}
+
+footer:hover {
+    color: var(--color-text);
 }
 
 .submit-wrap {
