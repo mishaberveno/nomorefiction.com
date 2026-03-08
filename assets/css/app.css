@@ -142,15 +142,6 @@ input[type="email"]:focus {
     outline: none;
 }
 
-footer {
-    color: var(--color-footer);
-    transition: color 200ms;
-}
-
-footer:hover {
-    color: var(--color-text);
-}
-
 .submit-wrap {
   position: relative;
 }
