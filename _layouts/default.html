@@ -29,6 +29,9 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@mishaberveno">
+    <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
+    <meta name="twitter:image" content="{{ page.image | default: '/assets/social/on-dissonance.jpg' | absolute_url }}">
 
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="canonical" href="{{ page.url | absolute_url }}">
@@ -58,7 +61,7 @@
                 <a href="/">Fiction</a>
             </h1>
             <p>Read <a href="/">short stories</a> and <a href="/books">book reviews</a> by <a href="https://berveno.com" rel="noopener" target="_blank">Misha Berveno</a>. Follow the reading journal on <a href="https://www.instagram.com/mishaberveno" rel="noopener" target="_blank">Instagram</a>.</p>
-            
+
             <form action="https://buttondown.com/api/emails/embed-subscribe/nofinalform" method="post">
                 <input type="email" name="email" autocomplete="email" placeholder="Enter your email" onfocus="this.placeholder=''" onblur="this.placeholder='Enter your email'" />
                 <span class="submit-wrap"><input type="submit" value="Subscribe"></span>
